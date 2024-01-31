@@ -1,0 +1,6 @@
+projectKey=TetrisVersion1.0
+serverUrl=http://65.0.94.78:9000
+serverVersion=9.9.3.79811
+dashboardUrl=http://65.0.94.78:9000/dashboard?id=TetrisVersion1.0
+ceTaskId=AY1gHoiyJC19yTC594vR
+ceTaskUrl=http://65.0.94.78:9000/api/ce/task?id=AY1gHoiyJC19yTC594vR
